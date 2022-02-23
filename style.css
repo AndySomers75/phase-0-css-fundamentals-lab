@@ -28,6 +28,16 @@ body {
     font-size: small;
   }
 
+  #featured-property p {
+    margin: auto;
+    text-align: center;
+    width: 800px;
+    padding: 10px;
+    }
+
+  div {
+    float: left;
+  }  
 
 
 
