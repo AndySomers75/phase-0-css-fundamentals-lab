@@ -9,10 +9,25 @@ body {
   margin: auto;
  }
 
- img, nav {
+ img {
    display: block;
    margin-left: auto;
    margin-right: auto;
    width: 40%;
-   text-align: center;
  }
+
+ nav {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: pink;
+  }
+
+  figcaption {
+    text-align: center;
+    font-size: small;
+  }
+
+
+
+
